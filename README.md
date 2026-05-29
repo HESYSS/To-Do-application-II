@@ -82,6 +82,3 @@ Open:
 http://localhost:4200
 ```
 
-## Notes
-
-This implementation uses Spring Data JPA/Hibernate because EF Core is a .NET/C# ORM, not a Java ORM. The Java equivalent for this stack is JPA/Hibernate with Spring Dependency Injection.
